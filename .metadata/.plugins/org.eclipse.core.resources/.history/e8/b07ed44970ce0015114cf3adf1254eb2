@@ -1,0 +1,5 @@
+package cs_122_FoodAnalyzer;
+
+public class Pizza extends FoodItem {
+
+}

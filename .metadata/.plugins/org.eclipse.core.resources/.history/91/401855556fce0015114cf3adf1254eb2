@@ -1,0 +1,21 @@
+package css_122_Override;
+
+/*
+ * Example of overloading
+ */
+
+public class Overload {
+
+	public static void main(String[] args) {
+		double x = 2, y = 2;
+		sum(x, y);
+	}
+	
+	public static int sum(int a, int b) {
+		return a + b;
+	}
+
+	public static double sum(double a, double b) {
+		return a + b;
+	}
+}

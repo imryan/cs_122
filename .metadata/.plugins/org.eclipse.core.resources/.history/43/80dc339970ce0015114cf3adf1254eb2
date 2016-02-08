@@ -1,0 +1,18 @@
+package cs_122_FoodAnalyzer;
+
+/*
+ * Superclass
+ * Luxurious living
+ */
+
+public class FoodItem {
+
+	final private int CALORIES_PER_GRAM = 9;
+	private int fatGrams;
+	protected int servings;
+
+	public FoodItem(int fatGrams, int servings) {
+		this.fatGrams = fatGrams;
+		this.servings = servings;
+	}
+}

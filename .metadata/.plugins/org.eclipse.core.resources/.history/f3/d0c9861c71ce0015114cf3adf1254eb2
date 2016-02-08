@@ -1,0 +1,8 @@
+package cs_122_FoodAnalyzer;
+
+public class Pizza extends FoodItem {
+
+	public Pizza(int fatGrams, int servings) {
+		super(fatGrams, servings);
+	}
+}

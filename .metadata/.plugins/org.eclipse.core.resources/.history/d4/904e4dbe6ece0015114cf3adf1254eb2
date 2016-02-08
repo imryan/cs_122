@@ -1,0 +1,12 @@
+package css_122_Override;
+
+/*
+ * Example of overloading
+ */
+
+public class Overload {
+
+	public int sum(int a, int b) {
+		return a + b;
+	}
+}
