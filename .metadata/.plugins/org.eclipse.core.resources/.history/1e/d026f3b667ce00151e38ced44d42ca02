@@ -1,0 +1,14 @@
+package cs_122_Inheritance;
+
+public class Book {
+
+	private int pages;
+
+	public void setPages(int pages) {
+		this.pages = pages;
+	}
+
+	public int getPages() {
+		return pages;
+	}
+}

@@ -1,0 +1,14 @@
+package cs_122_Inheritance;
+
+/*
+ * Tester class for DIctionary
+ */
+
+public class Words {
+
+	public static void main(String[] args) {
+		
+		Dictionary dict = new Dictionary();
+		System.out.println("Ratio:\t" + dict.computeRatio());
+	}
+}
