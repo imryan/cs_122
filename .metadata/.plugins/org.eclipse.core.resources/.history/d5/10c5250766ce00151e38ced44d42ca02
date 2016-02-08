@@ -1,8 +1,0 @@
-package cs_122_Inheritance;
-
-public class WordsTester {
-
-	public static void main(String[] args) {
-		Words words = new Words();
-	}
-}

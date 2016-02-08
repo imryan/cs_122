@@ -1,9 +1,0 @@
-package cs_122_Inheritance;
-
-public class Words {
-
-	public static void main(String[] args) {
-		Dictionary dict = new Dictionary();
-		System.out.println(dict.computeRatio());
-	}
-}
